@@ -1,5 +1,3 @@
-package co.uk.danfoad.sockettests;
-
 import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
